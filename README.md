@@ -20,7 +20,7 @@ var stdmath = require( 'stdmath' );
 
 #### stdmath
 
-Standard Math library (see the source).
+Standard Math library.
 
 ``` javascript
 console.dir( stdmath );
