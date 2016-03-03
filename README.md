@@ -23,7 +23,7 @@ var stdmath = require( 'stdmath' );
 Standard Math library.
 
 ``` javascript
-console.dir( stdmath );
+
 ```
 
 
@@ -31,8 +31,6 @@ console.dir( stdmath );
 
 ``` javascript
 var stdmath = require( 'stdmath' );
-
-console.dir( stdmath );
 ```
 
 To run the example code from the top-level application directory,
