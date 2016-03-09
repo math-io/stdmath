@@ -10,6 +10,10 @@
     {
       "name": "Athan Reines",
       "email": "kgryte@gmail.com"
+    },
+    {
+      "name": "Philipp Burckhardt",
+      "email": "pburckhardt@outlook.com"
     }
   ],
   "scripts": {
@@ -46,6 +50,7 @@
     "math-abs": "^1.0.2",
     "math-ceil": "^1.0.0",
     "math-cos": "^1.0.0",
+    "math-cospi": "^1.0.0",
     "math-digamma": "^1.0.2",
     "math-erf": "^1.0.0",
     "math-erfc": "^1.0.0",
