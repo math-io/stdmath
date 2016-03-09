@@ -89,6 +89,7 @@
     "math-hypot": "^1.0.0",
     "math-ln": "^1.0.0",
     "math-power": "^1.0.0",
+    "math-powm1": "^1.0.0",
     "math-round": "^1.0.0",
     "math-roundn": "^1.0.0",
     "math-signum": "^1.0.0",
