@@ -1,0 +1,9 @@
+prefix = "math"
+namespaces = [ "float32", "float64" ]
+name = "stdmath"
+strategy = "camelCase"
+
+[dictionary]
+math-riemann-zeta = "zeta"
+float64-to-float32 = "float64ToFloat32"
+math-power = "pow"
