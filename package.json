@@ -108,7 +108,8 @@
     "math-tan": "^1.0.0",
     "math-truncate": "^1.0.0",
     "math-uint16-bits": "^1.0.0",
-    "math-uint8-bits": "^1.0.0"
+    "math-uint8-bits": "^1.0.0",
+    "utils-define-read-only-property": "^1.0.0"
   },
   "devDependencies": {
     "browserify": "13.x.x",
